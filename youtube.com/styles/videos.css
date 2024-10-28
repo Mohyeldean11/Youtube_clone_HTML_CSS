@@ -1,0 +1,39 @@
+.grid-vids
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    column-gap: 18px;
+    row-gap: 20px;
+
+}
+
+
+.vid1-subtitle,
+.vid2-subtitle,
+.vid3-subtitle,
+.vid4-subtitle,
+.vid5-subtitle,
+.vid6-subtitle,
+.vid7-subtitle,
+.vid8-subtitle,
+.vid9-subtitle,
+.vid10-subtitle,
+.vid11-subtitle,
+.vid12-subtitle,
+.vid13-subtitle,
+.vid14-subtitle,
+.vid15-subtitle,
+.vid16-subtitle,
+.vid17-subtitle,
+.vid18-subtitle,
+.vid19-subtitle,
+.vid20-subtitle
+{
+    display: block;
+    font-size: 15px;
+    color: grey;
+    font-size: 12px ;
+    text-wrap: wrap;
+    text-align: left;
+    word-break: break-word;
+}
